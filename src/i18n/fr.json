@@ -1,0 +1,53 @@
+{
+  "app": {
+    "name": "QRFlow",
+    "tagline": "Générez de magnifiques codes QR en quelques secondes"
+  },
+  "generator": {
+    "title": "Générer un QR Code",
+    "placeholder": "Entrez du texte ou une URL...",
+    "button": "Générer",
+    "error": "Veuillez entrer du texte ou une URL valide"
+  },
+  "customizer": {
+    "title": "Personnaliser",
+    "foreground": "Couleur du premier plan",
+    "background": "Couleur de fond",
+    "size": "Taille",
+    "errorCorrection": "Correction d'erreur",
+    "ecL": "Faible (L)",
+    "ecM": "Moyenne (M)",
+    "ecQ": "Quartile (Q)",
+    "ecH": "Haute (H)",
+    "logo": "Ajouter un logo",
+    "logoPlaceholder": "Télécharger une image...",
+    "logoHelp": "PNG ou JPG, placé au centre du QR"
+  },
+  "preview": {
+    "title": "Aperçu",
+    "downloadPNG": "Télécharger PNG",
+    "downloadSVG": "Télécharger SVG",
+    "noContent": "Entrez du texte ci-dessus pour générer un QR code"
+  },
+  "history": {
+    "title": "Historique",
+    "empty": "Aucun QR code",
+    "emptyHint": "Générez votre premier QR code ci-dessus",
+    "clear": "Tout effacer",
+    "delete": "Supprimer",
+    "copied": "Copié !",
+    "copy": "Copier"
+  },
+  "header": {
+    "theme": {
+      "light": "Clair",
+      "dark": "Sombre"
+    },
+    "language": "Langue"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  }
+}

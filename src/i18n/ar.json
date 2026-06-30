@@ -1,0 +1,53 @@
+{
+  "app": {
+    "name": "QRFlow",
+    "tagline": "أنشئ رموز QR احترافية في ثوانٍ"
+  },
+  "generator": {
+    "title": "إنشاء رمز QR",
+    "placeholder": "أدخل نصاً أو رابطاً...",
+    "button": "إنشاء",
+    "error": "الرجاء إدخال نص أو رابط صحيح"
+  },
+  "customizer": {
+    "title": "تخصيص",
+    "foreground": "لون المقدمة",
+    "background": "لون الخلفية",
+    "size": "الحجم",
+    "errorCorrection": "تصحيح الأخطاء",
+    "ecL": "منخفض (L)",
+    "ecM": "متوسط (M)",
+    "ecQ": "ربعي (Q)",
+    "ecH": "عالي (H)",
+    "logo": "إضافة شعار",
+    "logoPlaceholder": "رفع صورة...",
+    "logoHelp": "PNG أو JPG، سيتم وضعه في وسط QR"
+  },
+  "preview": {
+    "title": "المعاينة",
+    "downloadPNG": "تحميل PNG",
+    "downloadSVG": "تحميل SVG",
+    "noContent": "أدخل نصاً أعلاه لإنشاء رمز QR"
+  },
+  "history": {
+    "title": "السجل",
+    "empty": "لا توجد رموز QR بعد",
+    "emptyHint": "أنشئ أول رمز QR من الأعلى",
+    "clear": "مسح الكل",
+    "delete": "حذف",
+    "copied": "تم النسخ!",
+    "copy": "نسخ"
+  },
+  "header": {
+    "theme": {
+      "light": "فاتح",
+      "dark": "داكن"
+    },
+    "language": "اللغة"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "تم بنجاح"
+  }
+}

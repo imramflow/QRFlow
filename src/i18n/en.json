@@ -1,0 +1,53 @@
+{
+  "app": {
+    "name": "QRFlow",
+    "tagline": "Generate beautiful QR codes in seconds"
+  },
+  "generator": {
+    "title": "Generate QR Code",
+    "placeholder": "Enter text or URL...",
+    "button": "Generate",
+    "error": "Please enter text or a valid URL"
+  },
+  "customizer": {
+    "title": "Customize",
+    "foreground": "Foreground Color",
+    "background": "Background Color",
+    "size": "Size",
+    "errorCorrection": "Error Correction",
+    "ecL": "Low (L)",
+    "ecM": "Medium (M)",
+    "ecQ": "Quartile (Q)",
+    "ecH": "High (H)",
+    "logo": "Add Logo",
+    "logoPlaceholder": "Upload image...",
+    "logoHelp": "PNG or JPG, will be placed in center of QR"
+  },
+  "preview": {
+    "title": "Preview",
+    "downloadPNG": "Download PNG",
+    "downloadSVG": "Download SVG",
+    "noContent": "Enter text above to generate a QR code"
+  },
+  "history": {
+    "title": "History",
+    "empty": "No QR codes yet",
+    "emptyHint": "Generate your first QR code above",
+    "clear": "Clear All",
+    "delete": "Delete",
+    "copied": "Copied!",
+    "copy": "Copy"
+  },
+  "header": {
+    "theme": {
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "language": "Language"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}
